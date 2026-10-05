@@ -12,7 +12,7 @@
 # ============================================================
 
 [project]
-name = "datafun-06-ml" # CUSTOM: Package distribution name (use lowercase and dashes).
+name = "datafun-06-ml KC" # CUSTOM: Package distribution name (use lowercase and dashes).
 readme = "README.md"
 requires-python = ">=3.14"
 version = "0.1.0"
